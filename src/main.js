@@ -1,5 +1,6 @@
 import { theJournal } from './journ';
 import './styles.css';
+import 'bootstrap';
 
 $(document).ready(function() {
   $("form").submit(function(event){
